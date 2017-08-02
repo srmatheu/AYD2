@@ -19,6 +19,8 @@ import java.util.logging.Logger;
  *
  * @author Samuel
  */
+
+//888888
 public class InterfazLaberinto extends javax.swing.JFrame {
 
     public ArrayList<ArrayList<Integer>> Maze = new ArrayList<ArrayList<Integer>>();
