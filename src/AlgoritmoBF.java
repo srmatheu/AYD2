@@ -20,6 +20,8 @@ public class AlgoritmoBF {
             return true;
         }
         
+        //cambio merge
+        
         //Nodo libre
         if (Laberinto.get(y).get(x) == 0) {
             Laberinto.get(y).set(x,4);//No visitado, esto es para mostrarlo en la interfaz gráfica
