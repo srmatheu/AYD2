@@ -11,6 +11,7 @@ import java.util.List;
  */
 public class AlgoritmoBF {    
       //test 1
+    //Prueba 2
     public static boolean BuscarCaminos(ArrayList<ArrayList<Integer>> Laberinto, int x, int y, List<Integer> Camino) {
         /////PRUEBA CAMBIO 1
         
