@@ -10,8 +10,11 @@ import java.util.List;
  * @author Samuel
  */
 public class AlgoritmoBF {    
-      //test 2
+      //test 1
     public static boolean BuscarCaminos(ArrayList<ArrayList<Integer>> Laberinto, int x, int y, List<Integer> Camino) {
+        /////PRUEBA CAMBIO 1
+        
+        
         
         //Significa que es salida
         if (Laberinto.get(y).get(x) == 3) {
